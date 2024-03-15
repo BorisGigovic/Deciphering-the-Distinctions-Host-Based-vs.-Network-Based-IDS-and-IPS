@@ -3,13 +3,13 @@ In the realm of cybersecurity, understanding the intricate differences between v
 
 # Understanding IDS and IPS 
 
-Intrusion Detection Systems (IDS) are designed to detect unauthorized access or anomalies in network traffic and system behaviors, alerting security personnel to potential threats. Intrusion Prevention Systems (IPS), on the other hand, not only detect these threats but also take preemptive actions to block or mitigate them before they cause harm. 
+**Intrusion Detection Systems (IDS)** are designed to detect unauthorized access or anomalies in network traffic and system behaviors, alerting security personnel to potential threats. **Intrusion Prevention Systems (IPS)**, on the other hand, not only detect these threats but also take preemptive actions to block or mitigate them before they cause harm. 
 
-Both IDS and IPS can be deployed in two distinct manners: host-based and network-based. 
+Both IDS and IPS can be deployed in two distinct manners: **host-based** and **network-based**. 
 
 # Host-Based IDS/IPS 
 
-Host-Based Intrusion Detection Systems (HIDS) and Intrusion Prevention Systems (HIPS) are installed on individual devices or hosts. They monitor the system's operations, file integrity, and log files for signs of malicious activity, focusing on internal traffic and system behavior rather than network traffic. 
+**Host-Based Intrusion Detection Systems (HIDS) and Intrusion Prevention Systems (HIPS)** are installed on individual devices or hosts. They monitor the system's operations, file integrity, and log files for signs of malicious activity, focusing on internal traffic and system behavior rather than network traffic. 
 
 # Practical Use Cases: 
 
@@ -19,7 +19,7 @@ Host-Based Intrusion Detection Systems (HIDS) and Intrusion Prevention Systems (
 
 # Network-Based IDS/IPS 
 
-Network-Based Intrusion Detection Systems (NIDS) and Intrusion Prevention Systems (NIPS) are deployed at strategic points within the network to monitor traffic to and from all devices on the network. They analyze network packets for signs of malicious activity, focusing on external threats before they reach individual devices. 
+**Network-Based Intrusion Detection Systems (NIDS) and Intrusion Prevention Systems (NIPS)** are deployed at strategic points within the network to monitor traffic to and from all devices on the network. They analyze network packets for signs of malicious activity, focusing on external threats before they reach individual devices. 
 
 # Practical Use Cases: 
 
@@ -29,7 +29,7 @@ Network-Based Intrusion Detection Systems (NIDS) and Intrusion Prevention System
 
 # Key Differences and Complementarity 
 
-The primary distinction between host-based and network-based IDS/IPS lies in their scope of monitoring and prevention. Host-based systems provide in-depth analysis of what is happening on individual hosts, offering detailed insights into the behavior of specific devices and applications. In contrast, network-based systems offer a broader view, analyzing the data flowing across the entire network to identify potential threats before they reach the hosts. 
+The primary distinction between host-based and network-based IDS/IPS lies in their scope of monitoring and prevention. **Host-based** systems provide in-depth analysis of what is happening on individual hosts, offering detailed insights into the behavior of specific devices and applications. In contrast, **network-based** systems offer a broader view, analyzing the data flowing across the entire network to identify potential threats before they reach the hosts. 
 
 # Integration for Comprehensive Security: 
 
